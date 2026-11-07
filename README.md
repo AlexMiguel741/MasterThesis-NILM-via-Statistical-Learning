@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 > **MSc Thesis Project** | Politecnico di Milano  
-> *Non-Intrusive Monitoring for Condition-Based Diagnostic of Electrical Devices* [file:11]
+> *Non-Intrusive Monitoring for Condition-Based Diagnostic of Electrical Devices*
 
 ## 🔬 Abstract
 This repository implements a **Non-Intrusive Load Monitoring (NILM)** framework for the fault diagnosis of electromechanical appliances. The project focuses on classifying internal mechanical states (e.g., specific spray-arm rotation phases in dishwashers) using high-frequency current signatures ($f_s = 5 \text{ kHz}$).
